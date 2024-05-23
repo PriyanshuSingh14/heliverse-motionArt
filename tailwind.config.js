@@ -2,7 +2,14 @@
 module.exports = {
   content: ["./src/**/*.{html,js}"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        libre: ["Sora", "Outfit"]
+      },
+      colors: {
+        'off-white': '#EEE5FF',
+      },
+    },
   },
   plugins: [],
 }
