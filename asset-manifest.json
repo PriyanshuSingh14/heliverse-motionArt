@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PriyanshuSingh14/heliverse-motionArt/static/css/main.e2d7f1d8.css",
+    "main.js": "/PriyanshuSingh14/heliverse-motionArt/static/js/main.9d824c50.js",
+    "static/js/453.2245fd97.chunk.js": "/PriyanshuSingh14/heliverse-motionArt/static/js/453.2245fd97.chunk.js",
+    "index.html": "/PriyanshuSingh14/heliverse-motionArt/index.html",
+    "main.e2d7f1d8.css.map": "/PriyanshuSingh14/heliverse-motionArt/static/css/main.e2d7f1d8.css.map",
+    "main.9d824c50.js.map": "/PriyanshuSingh14/heliverse-motionArt/static/js/main.9d824c50.js.map",
+    "453.2245fd97.chunk.js.map": "/PriyanshuSingh14/heliverse-motionArt/static/js/453.2245fd97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2d7f1d8.css",
+    "static/js/main.9d824c50.js"
+  ]
+}
